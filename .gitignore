@@ -6,3 +6,4 @@
 a.out
 cmake-build-*
 ClusterDuck-Protokoll.code-workspace
+docs/assets/images/*
